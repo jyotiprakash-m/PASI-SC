@@ -1,0 +1,4 @@
+
+DEFAULT_RPC_NODE=https://pasi-besu-5934.aks-middleeast.settlemint.com/bpaas-865290E570CC03c11ecf4ac4e6e628EdB1FDc95b
+DEFAULT_IPFS=https://api.thegraph.com/ipfs/
+    

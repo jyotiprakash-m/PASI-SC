@@ -1,0 +1,26 @@
+{
+  "namedAccounts": {
+    "deployer": {
+      "default": 0
+    },
+    "wallet": {
+      "default": 0
+    }
+  },
+  "networks": {
+    "hardhat": {
+      "chainId": 1337
+    },
+    "pasi-besu-5934": {
+      "url": "https://pasi-besu-5934.aks-middleeast.settlemint.com",
+      "chainId": 48494,
+      "blockGasLimit": 9007199254740991,
+      "gas": "auto",
+      "gasPrice": 0,
+      "httpHeaders": {
+        "x-auth-token": "bpaas-a958daE29993A96FB3A90466B8bf0B327faD0d86"
+      }
+    }
+  },
+  "ipfsNodeConfig": {}
+}
